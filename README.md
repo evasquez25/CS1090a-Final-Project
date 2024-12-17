@@ -1,6 +1,6 @@
 # CS109a-Final-Project
 
-<div style="background: orange; color: black; padding: 5px">    
+<div>    
     <h5>
         The goal of this project is to train and evaluate predictive models that can classify headline sentiment (positive, neutral, or negative) and detect clickbait using engineered features. Our dataset consists of headlines with corresponding sentiment scores, where the target variable, GPT_score, was categorized into three classes: negative (≤ -0.2), neutral (between -0.2 and 0.4), and positive (≥ 0.4).
     </h5>
